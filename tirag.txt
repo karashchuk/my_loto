@@ -1,0 +1,116 @@
+﻿Архив тиражей</a>&nbsp;/    					    															    				    				    					Проверить билет тиража № 3															</ul>
+</div>
+	<div class="main_header cleared">
+								<div class="game_logo"><img src="/f/media/games-sites/6x45/global/logo_6x45_mid.png" alt="«Гослото «6 из 45»"   /></div>
+	       </div>	<ul id="subnavigation" class="cleared no_visited">
+		<li >
+					<a href="/6x45">Сайт игры</a>
+		    </li>
+	    	<li >
+    						<a href="/6x45/about">О лотерее</a>
+			    	</li>
+	    	<li >
+    						<a href="/6x45/game">Ставка</a>
+			    	</li>
+	    	<li >
+    						<a href="/6x45/rules">Как играть?</a>
+			    	</li>
+	    	<li >
+    						<a href="/map">Где купить?</a>
+			    	</li>
+	    	<li class="selected">
+    						<a href="/6x45/archive">Архив тиражей</a>
+			    	</li>
+	    	<li >
+    						<a href="/6x45/check_bulletin">Проверить билет</a>
+			    	</li>
+	    	<li >
+    						<a href="/winners/6x45">Победители</a>
+			    	</li>
+	</ul>
+					
+													
+<style type="text/css" media="print">
+	.go-talk-btn{display: none;}
+</style>
+
+<style type="text/css">
+	.text #content h2{
+		margin: 0 0 .7em;
+	}
+</style>
+<h1>Результаты тиража № 3, 17 ноября 2008 в 08:50</h1>
+
+
+
+<div id="content" class="cleared game_567 game_6x45">
+		<div class="winning_numbers cleared">
+	<ul>
+							<li class="girl1 number38  ">
+				<p class="number">38</p>
+			</li>
+					<li class="girl2 number7  ">
+				<p class="number">7</p>
+			</li>
+					<li class="girl3 number3  ">
+				<p class="number">3</p>
+			</li>
+					<li class="girl4 number45  ">
+				<p class="number">45</p>
+			</li>
+					<li class="girl5 number26  ">
+				<p class="number">26</p>
+			</li>
+					<li class="girl6 number4  ">
+				<p class="number">4</p>
+			</li>
+					</ul>
+</div>
+<h2>Итоги розыгрыша</h2>
+<div class="col prizes">
+	<div class="results_table with_bottom_shadow">
+		<div class="inner">
+			<table>
+				<thead>
+					<tr>
+						<th>Угаданных чисел</th>
+						<th>Кол-во победителей</th>
+						<th>Выигрыш победителя, руб.</th>
+						<th>Общий выигрыш, руб.</th>
+					</tr>
+				</thead>
+				<tbody>
+																															<tr>
+    						<td>6</td>
+    						<td>0</td>
+							<td>0</td>
+							<td>0</td>
+    					</tr>
+											<tr>
+    						<td>5</td>
+    						<td>3</td>
+							<td>204&nbsp;064</td>
+							<td>612&nbsp;192</td>
+    					</tr>
+											<tr>
+    						<td>4</td>
+    						<td>408</td>
+							<td>806</td>
+							<td>328&nbsp;848</td>
+    					</tr>
+											<tr>
+    						<td>3</td>
+    						<td>7499</td>
+							<td>70</td>
+							<td>524&nbsp;930</td>
+    					</tr>
+											<tr>
+    						<td>2</td>
+    						<td>51&nbsp;301</td>
+							<td>20</td>
+							<td>1&nbsp;026&nbsp;020</td>
+    					</tr>
+									</tbody>
+			</table>
+		</div>
+	</div>
