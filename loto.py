@@ -44,7 +44,7 @@ reres = re.compile(r'''
 
 #tirag = 1
 mon={'января':'01','февраля':'02','марта':'03','апреля':'04','мая':'05','июня':'06','июля':'07','августа':'08','сентября':'09','октября':'10','ноября':'11','декабря':'12'}
-for tirag in range(1900,2050):
+for tirag in range(2000,2058):
     fh = url.urlopen('http://www.stoloto.ru/6x45/archive/' +str(tirag))
     htm = fh.read().decode("utf8")
     num = renum.findall(htm)
@@ -56,6 +56,6 @@ for tirag in range(1900,2050):
     ntir = tir[0][0]
     dtir = datetime.datetime.strptime(tir[0][1]+'.'+mon[tir[0][2]]+'.'+tir[0][3]+' '+tir[0][4],"%d.%m.%Y %H:%M")
     balls = (int(num[0][1]),int(num[1][1]),int(num[2][1]),int(num[3][1]),int(num[4][1]),int(num[5][1]))
-    print (ntir, datetime.datetime.date(dtir), balls, result['w6']['rub_win'])
+    print (ntir, datetime.datetime.time(dtir), datetime.datetime.date(dtir), balls, result['w6']['rub_win'])
 
     #print (result)
